@@ -1,0 +1,9 @@
+{
+    "ocr_result_df_path":"shortpost_ocr_df.pkl",
+    "long_post_char":65,
+    "model_lower_char":23,
+    "end_punc":"!?.",
+    "models_dir":"./models/",
+    "use_device":"0",
+    "batch_size":32
+}
